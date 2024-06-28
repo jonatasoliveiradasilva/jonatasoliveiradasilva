@@ -1,4 +1,4 @@
-## Olá, eu sou o Jônatas! Seja bem-vindo(a) ao meu perfil
+## Olá, eu sou o Jônatas :blush::rainbow_flag:! Seja bem-vindo(a) ao meu perfil
 
 ## Sobre mim
 
