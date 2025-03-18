@@ -5,7 +5,6 @@
 ## Sobre mim
 
 - 29 anos
-- Atualmente eu sou aluno do projeto **Transforme-se** (Gerando Falcões + Senac + Serasa Experian)
 - Desenvolvedor Front End em busca de uma oportunidade no mercado de trabalho
 - São Paulo, SP
 
