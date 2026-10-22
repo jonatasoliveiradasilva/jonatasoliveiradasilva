@@ -2,17 +2,17 @@
 
 ## Seja bem-vindo(a) ao meu perfil
 
-Sou um Desenvolvedor Front End Jr em início de carreira, apaixonado por tecnologia e desenvolvimento web.
+Sou um <strong>Desenvolvedor Front End Jr</strong> em início de carreira, apaixonado por tecnologia e desenvolvimento web.
 
 Estou em constante aprendizado, buscando aprimorar as minhas habilidades e transformar ideias em interfaces funcionais, acessíveis e responsivas.
 
 ## Sobre mim
 
-- Foco em Desenvolvimento Front End.
-- Estudando e aprimorando os meus conhecimentos em HTML, CSS, JavaScript e React.
-- Interesse em HTML semântico, CSS, responsividade e boas práticas de desenvolvimento.
+- <strong>Foco em Desenvolvimento Front End</strong>.
+- Estudando e aprimorando os meus conhecimentos em <strong>HTML, CSS, JavaScript e React</strong>.
+- Interesse em <strong>HTML Semântico, CSS, Responsividade e Boas Práticas de Desenvolvimento</strong>.
 - Sempre buscando aprender novas tecnologias e evoluir por meio de projetos práticos.
-- Em busca de uma oportunidade com Desenvolvedor Front End Jr para contribuir com uma equipe e continuar crescendo profissionalmente.
+- <strong>Em busca de uma oportunidade com Desenvolvedor Front End Jr</strong> para contribuir com uma equipe e continuar crescendo profissionalmente.
 - São Paulo, SP - Brasil
 
 ## Habilidades
@@ -31,5 +31,5 @@ Estou em constante aprendizado, buscando aprimorar as minhas habilidades e trans
 
 - Celular: (11) 9 6023-9336
 - E-mail: oliveirajonatas@outlook.com.br
-- Github: https://github.com/jonatasoliveiradasilva
-- Linkedin: https://www.linkedin.com/in/jonatasoliveiradasilva/
+- Github: https://www.github.com/jonatasoliveiradasilva
+- LinkedIn: https://www.linkedin.com/in/jonatasoliveiradasilva
