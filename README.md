@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jônatas Oliveira da Silva
+=## Olá! Eu sou o Jônatas Oliveira da Silva
 
 ## Seja bem-vindo(a) ao meu perfil
 
@@ -68,6 +68,8 @@ Estou em constante aprendizado, buscando aprimorar as minhas habilidades e trans
 ## Contato
 
 - Celular: (11) 9 6023-9336
-- E-mail: oliveirajonatas@outlook.com.br
+- G-mail: oliveirajonatassilva@gmail.com
+- Outlook: oliveirajonatas@outlook.com.br
 - Github: https://www.github.com/jonatasoliveiradasilva
+- Instagram: https://www.instagram.com/o_xonatas
 - LinkedIn: https://www.linkedin.com/in/jonatasoliveiradasilva
